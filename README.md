@@ -24,3 +24,17 @@ public class Love {
     }
 }
 ```
+
+---
+
+你的一句明天见，偷走了我整个夜晚的睡眠。  
+来源：https://www.zhihu.com/question/28314613
+```java
+public class Love {
+    public static void main(String[] args) {
+        while (you.say("see you tomorrow")) {
+            i.sleep = 0;
+        }
+    }
+}
+```
