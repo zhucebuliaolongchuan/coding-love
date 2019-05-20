@@ -64,8 +64,8 @@ public class Love {
 ```java
 public class Love {
     public static void main(String[] args) {
-        if (memory == canned) {
-            canned.validity = 1f/0f;
+        if (memory == can) {
+            can.validity = 1f/0f;
         }
     }
 }
