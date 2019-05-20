@@ -56,3 +56,17 @@ public class Love {
     }
 }
 ```
+
+---
+
+如果记忆也是一个罐头的话，我希望这罐罐头不会过期。  
+来源：电影《重庆森林》
+```java
+public class Love {
+    public static void main(String[] args) {
+        if (memory == canned) {
+            canned.validity = 1f/0f;
+        }
+    }
+}
+```
