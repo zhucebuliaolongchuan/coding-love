@@ -50,6 +50,7 @@ public class Love {
         int years = 500;
         while (years != 0) {
             stoneBridge.tilt();
+            stoneBridge.dry();
             stoneBridge.wet();
             years--;
         }
