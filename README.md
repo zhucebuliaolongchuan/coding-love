@@ -1,4 +1,4 @@
-> // 代码情诗:heart: 程序员也可以这么文艺
+> // 代码情书:heart: 程序员也可以这么文艺
 
 <p align="center">
 	<img src="images/dhxy.jpg" width="500"/>
@@ -18,7 +18,7 @@ public class Love {
         me.regret();
         if (god.getChance()) {
             me.sayToHer("我爱你");
-            if (me.getLoveTime() != 10000) {
+            if (me.getLoveTime() < 10000) {
                 me.setLoveTime(10000);
             }
         }
@@ -67,6 +67,22 @@ public class Love {
     public static void main(String[] args) {
         if (memory == can) {
             can.validity = 1f/0f;
+        }
+    }
+}
+```
+
+---
+
+我连一秒都不曾拥有过你，却感觉已失去你千万次。
+```java
+public class Love {
+    public static void main(String[] args) {
+        for (int i = 1; i < 1; i++) {
+            me.has(you);
+        }
+        while (true) {
+            me.lost(you);
         }
     }
 }
