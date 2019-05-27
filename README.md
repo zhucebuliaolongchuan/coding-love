@@ -87,3 +87,17 @@ public class Love {
     }
 }
 ```
+
+---
+
+I love you three thousand times.  
+来源：电影《复仇者联盟4：终局之战》
+```java
+public class Love {
+    public static void main(String[] args) {
+        while (true) {
+            i.love(you);
+        }
+    }
+}
+```
