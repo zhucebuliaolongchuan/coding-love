@@ -1,7 +1,7 @@
 > // 代码情书:heart: 程序员也可以这么文艺
 
 <p align="center">
-	<img src="images/dhxy.jpg" width="500"/>
+	<img src="images/banner.jpg" width="500"/>
 </p>
 
 ---
