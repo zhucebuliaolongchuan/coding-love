@@ -1,14 +1,15 @@
-> // 代码情书:heart: 程序员也可以这么文艺
+> // 代码情书❤ 程序员也可以这么文艺
 
 <p align="center">
 	<img src="images/banner.jpg" width="500"/>
 </p>
 
 <details>
-<summary><b>其它语言</b></summary>
-<ul>
-    <li><a href="PHP.md" target="_blank">PHP</a></li>
-</ul>
+<summary><b>⌨ 其它语言</b></summary>
+<br />
+
+* [PHP](PHP.md)
+
 </details>
 
 ---
