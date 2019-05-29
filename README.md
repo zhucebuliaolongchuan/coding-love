@@ -103,8 +103,10 @@ I love you three thousand.
 ```java
 public class Love {
     public static void main(String[] args) {
-        while (true) {
+        times = 0;
+        while (times < 3000) {
             i.love(you);
+            times++;
         }
     }
 }
